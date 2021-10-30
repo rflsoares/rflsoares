@@ -1,5 +1,7 @@
 ### Hi there 👋
+I am a student of HTML5 and CSS3. I'm starting my studies. Soon I'll start with Javascript and Node.js. Of course, also study technologies like git and github. Track my progress and follow me! Hugs.
 
+![Megacat](https://octodex.github.com/images/megacat-2.png)
 <!--
 **rflsoares/rflsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
